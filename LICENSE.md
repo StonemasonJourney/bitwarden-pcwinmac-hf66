@@ -1,4 +1,4 @@
-# 
+# Advanced Bitwarden add-ons for Mac OS | Exclusive Bitwarden add-ons for PC Windows. Featuring historical data analysis and command line support — optimized for maximum performance on every platform.
 
 
 
